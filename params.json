@@ -1,0 +1,6 @@
+{
+  "name": "Flame JMS Thin Client",
+  "tagline": "One JMS client API for all popular message broker with zero configuration",
+  "body": "### What is FlamJMSThinClient?\r\nThis is an JMS API built on top of Oracle JMS API. This API can be used by client who are consuming messaging services.\r\nThis API support all major/popular JMS vendors. This API need almost zero configuration to consume messages from any kind of message broker.\r\n\r\n### API Supports\r\nThis API support Transactional and non-transactional messaging with message broker.\r\nThis API automatically release resources used for messaging after completing.\r\n\r\nIf you are facing any issues during the implementation, please create a issue through the GitHub.\r\nIf you need any technical help from the Author or Contributors, please send email to below mentioned email ids.\r\n\r\n### Authors and Contributors\r\nYou can connect to Author through Email - prabir.pk@gmail.com or bigdatasolutions.tech@gmail.com.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
